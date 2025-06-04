@@ -128,6 +128,7 @@
 				{"恢复自动搜索网络 > AT+GTACT=20":"AT+GTACT=20"},
 				{"查询当前连接的网络类型 > AT+PSRAT?":"AT+PSRAT?"},
 				{"查询载波聚合小区信息 > AT+GTCAINFO?":"AT+GTCAINFO?"},
+				{"查询小区信息 > AT+GTCCINFO?":"AT+GTCCINFO?"},
 				{"查询模组IMEI > AT+GTSN=0,7":"AT+GTSN=0,7"},
 				{"更改模组IMEI(FG360-EAU) > AT+GTSN=1,7,\"IMEI\"":"AT+GTSN=1,7,\"在此设置IMEI1\",\"在此设置IMEI2\""},
 				{"更改模组IMEI(FM350) > AT+EGMREXT=1,7,\"IMEI\"":"AT+EGMREXT=1,7,\"在此设置IMEI1\""},
